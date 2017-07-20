@@ -1,0 +1,57 @@
+/*CSS file for about_me.html*/
+
+html {
+  background: url(asleep.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.head1 {
+  color: #FFFFFF;
+}
+
+.head2 {
+  color: #FFFFFF;
+  font-size: 15px;
+}
+
+.left {
+  position: absolute;
+  left: 2%;
+}
+
+.introducing {
+  color: #FFFFFF;
+  position:absolute;
+  top:40%;
+  left: 2%;
+}
+
+.font1 {
+  font-size: 30px;
+}
+
+.foot {
+  height: 90px;
+  width: 90px;
+  border-radius: 50%;
+}
+
+.foot2 {
+  position: absolute;
+  bottom: 5%;
+  left: 2%;
+  color: #FFFFFF;
+  font-style: italic;
+  font-size: 20px;
+}
+
+.foot3 {
+  position: absolute;
+  right: 5%;
+  bottom: 5%;
+  height: 90px;
+  width: 90px;
+}
